@@ -1,5 +1,11 @@
 # JM Computer SDN BHD
 
-Please check [JM Computer SDN BHD][JM] to understand more!
+University Semester 5 Project - JM Computer SDN BHD
 
-[JM]: http://lrgs.ftsm.ukm.my/users/a176607/myPT4/login.php
+[JM Computer SDN BHD Website][JM Computer SDN BHD Website]
+
+---
+
+Please visit [JM Computer SDN BHD Website][JM Computer SDN BHD] to understand more!
+
+[JM Computer SDN BHD]: http://lrgs.ftsm.ukm.my/users/a176607/myPT4/login.php
