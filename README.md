@@ -1,6 +1,6 @@
 # JM Computer SDN BHD
 
-University Semester 5 Project - JM Computer SDN BHD
+Web Programming Project - JM Computer SDN BHD
 
 [JM Computer SDN BHD Website][JM Computer SDN BHD]
 
